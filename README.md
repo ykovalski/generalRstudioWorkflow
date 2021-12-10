@@ -1,7 +1,7 @@
 # generalRstudioWorkflow
 this repo was used as a collection of workflows, and pipelines commentary for beginner level R researchers. 
 
-Serving as a facilitator in one of the research projects of NEcyberteam.org, I used this repo as a collection of examples for annotated workflows. 
+Serving as a facilitator in one of the bioinformatics based research projects for NEcyberteam.org. I used this repo as a collection of examples for annotated workflows, as an intro before introducing bioinformatics workflows. 
 
 content:
 
